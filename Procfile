@@ -1,1 +1,1 @@
-web: gunicorn richedu.wsgi --log-file
+web: gunicorn richedu.wsgi
